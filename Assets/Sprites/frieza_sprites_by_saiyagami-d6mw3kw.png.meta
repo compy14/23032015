@@ -1,0 +1,5261 @@
+fileFormatVersion: 2
+guid: 2f6727ed5881e954193508d2e5ee2484
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: frieza_sprites_by_saiyagami-d6mw3kw_0
+    21300002: frieza_sprites_by_saiyagami-d6mw3kw_1
+    21300004: frieza_sprites_by_saiyagami-d6mw3kw_2
+    21300006: frieza_sprites_by_saiyagami-d6mw3kw_3
+    21300008: frieza_sprites_by_saiyagami-d6mw3kw_4
+    21300010: frieza_sprites_by_saiyagami-d6mw3kw_5
+    21300012: frieza_sprites_by_saiyagami-d6mw3kw_6
+    21300014: frieza_sprites_by_saiyagami-d6mw3kw_7
+    21300016: frieza_sprites_by_saiyagami-d6mw3kw_8
+    21300018: frieza_sprites_by_saiyagami-d6mw3kw_9
+    21300020: frieza_sprites_by_saiyagami-d6mw3kw_10
+    21300022: frieza_sprites_by_saiyagami-d6mw3kw_11
+    21300024: frieza_sprites_by_saiyagami-d6mw3kw_12
+    21300026: frieza_sprites_by_saiyagami-d6mw3kw_13
+    21300028: frieza_sprites_by_saiyagami-d6mw3kw_14
+    21300030: frieza_sprites_by_saiyagami-d6mw3kw_15
+    21300032: frieza_sprites_by_saiyagami-d6mw3kw_16
+    21300034: frieza_sprites_by_saiyagami-d6mw3kw_17
+    21300036: frieza_sprites_by_saiyagami-d6mw3kw_18
+    21300038: frieza_sprites_by_saiyagami-d6mw3kw_19
+    21300040: frieza_sprites_by_saiyagami-d6mw3kw_20
+    21300042: frieza_sprites_by_saiyagami-d6mw3kw_21
+    21300044: frieza_sprites_by_saiyagami-d6mw3kw_22
+    21300046: frieza_sprites_by_saiyagami-d6mw3kw_23
+    21300048: frieza_sprites_by_saiyagami-d6mw3kw_24
+    21300050: frieza_sprites_by_saiyagami-d6mw3kw_25
+    21300052: frieza_sprites_by_saiyagami-d6mw3kw_26
+    21300054: frieza_sprites_by_saiyagami-d6mw3kw_27
+    21300056: frieza_sprites_by_saiyagami-d6mw3kw_28
+    21300058: frieza_sprites_by_saiyagami-d6mw3kw_29
+    21300060: frieza_sprites_by_saiyagami-d6mw3kw_30
+    21300062: frieza_sprites_by_saiyagami-d6mw3kw_31
+    21300064: frieza_sprites_by_saiyagami-d6mw3kw_32
+    21300066: frieza_sprites_by_saiyagami-d6mw3kw_33
+    21300068: frieza_sprites_by_saiyagami-d6mw3kw_34
+    21300070: frieza_sprites_by_saiyagami-d6mw3kw_35
+    21300072: frieza_sprites_by_saiyagami-d6mw3kw_36
+    21300074: frieza_sprites_by_saiyagami-d6mw3kw_37
+    21300076: frieza_sprites_by_saiyagami-d6mw3kw_38
+    21300078: frieza_sprites_by_saiyagami-d6mw3kw_39
+    21300080: frieza_sprites_by_saiyagami-d6mw3kw_40
+    21300082: frieza_sprites_by_saiyagami-d6mw3kw_41
+    21300084: frieza_sprites_by_saiyagami-d6mw3kw_42
+    21300086: frieza_sprites_by_saiyagami-d6mw3kw_43
+    21300088: frieza_sprites_by_saiyagami-d6mw3kw_44
+    21300090: frieza_sprites_by_saiyagami-d6mw3kw_45
+    21300092: frieza_sprites_by_saiyagami-d6mw3kw_46
+    21300094: frieza_sprites_by_saiyagami-d6mw3kw_47
+    21300096: frieza_sprites_by_saiyagami-d6mw3kw_48
+    21300098: frieza_sprites_by_saiyagami-d6mw3kw_49
+    21300100: frieza_sprites_by_saiyagami-d6mw3kw_50
+    21300102: frieza_sprites_by_saiyagami-d6mw3kw_51
+    21300104: frieza_sprites_by_saiyagami-d6mw3kw_52
+    21300106: frieza_sprites_by_saiyagami-d6mw3kw_53
+    21300108: frieza_sprites_by_saiyagami-d6mw3kw_54
+    21300110: frieza_sprites_by_saiyagami-d6mw3kw_55
+    21300112: frieza_sprites_by_saiyagami-d6mw3kw_56
+    21300114: frieza_sprites_by_saiyagami-d6mw3kw_57
+    21300116: frieza_sprites_by_saiyagami-d6mw3kw_58
+    21300118: frieza_sprites_by_saiyagami-d6mw3kw_59
+    21300120: frieza_sprites_by_saiyagami-d6mw3kw_60
+    21300122: frieza_sprites_by_saiyagami-d6mw3kw_61
+    21300124: frieza_sprites_by_saiyagami-d6mw3kw_62
+    21300126: frieza_sprites_by_saiyagami-d6mw3kw_63
+    21300128: frieza_sprites_by_saiyagami-d6mw3kw_64
+    21300130: frieza_sprites_by_saiyagami-d6mw3kw_65
+    21300132: frieza_sprites_by_saiyagami-d6mw3kw_66
+    21300134: frieza_sprites_by_saiyagami-d6mw3kw_67
+    21300136: frieza_sprites_by_saiyagami-d6mw3kw_68
+    21300138: frieza_sprites_by_saiyagami-d6mw3kw_69
+    21300140: frieza_sprites_by_saiyagami-d6mw3kw_70
+    21300142: frieza_sprites_by_saiyagami-d6mw3kw_71
+    21300144: frieza_sprites_by_saiyagami-d6mw3kw_72
+    21300146: frieza_sprites_by_saiyagami-d6mw3kw_73
+    21300148: frieza_sprites_by_saiyagami-d6mw3kw_74
+    21300150: frieza_sprites_by_saiyagami-d6mw3kw_75
+    21300152: frieza_sprites_by_saiyagami-d6mw3kw_76
+    21300154: frieza_sprites_by_saiyagami-d6mw3kw_77
+    21300156: frieza_sprites_by_saiyagami-d6mw3kw_78
+    21300158: frieza_sprites_by_saiyagami-d6mw3kw_79
+    21300160: frieza_sprites_by_saiyagami-d6mw3kw_80
+    21300162: frieza_sprites_by_saiyagami-d6mw3kw_81
+    21300164: frieza_sprites_by_saiyagami-d6mw3kw_82
+    21300166: frieza_sprites_by_saiyagami-d6mw3kw_83
+    21300168: frieza_sprites_by_saiyagami-d6mw3kw_84
+    21300170: frieza_sprites_by_saiyagami-d6mw3kw_85
+    21300172: frieza_sprites_by_saiyagami-d6mw3kw_86
+    21300174: frieza_sprites_by_saiyagami-d6mw3kw_87
+    21300176: frieza_sprites_by_saiyagami-d6mw3kw_88
+    21300178: frieza_sprites_by_saiyagami-d6mw3kw_89
+    21300180: frieza_sprites_by_saiyagami-d6mw3kw_90
+    21300182: frieza_sprites_by_saiyagami-d6mw3kw_91
+    21300184: frieza_sprites_by_saiyagami-d6mw3kw_92
+    21300186: frieza_sprites_by_saiyagami-d6mw3kw_93
+    21300188: frieza_sprites_by_saiyagami-d6mw3kw_94
+    21300190: frieza_sprites_by_saiyagami-d6mw3kw_95
+    21300192: frieza_sprites_by_saiyagami-d6mw3kw_96
+    21300194: frieza_sprites_by_saiyagami-d6mw3kw_97
+    21300196: frieza_sprites_by_saiyagami-d6mw3kw_98
+    21300198: frieza_sprites_by_saiyagami-d6mw3kw_99
+    21300200: frieza_sprites_by_saiyagami-d6mw3kw_100
+    21300202: frieza_sprites_by_saiyagami-d6mw3kw_101
+    21300204: frieza_sprites_by_saiyagami-d6mw3kw_102
+    21300206: frieza_sprites_by_saiyagami-d6mw3kw_103
+    21300208: frieza_sprites_by_saiyagami-d6mw3kw_104
+    21300210: frieza_sprites_by_saiyagami-d6mw3kw_105
+    21300212: frieza_sprites_by_saiyagami-d6mw3kw_106
+    21300214: frieza_sprites_by_saiyagami-d6mw3kw_107
+    21300216: frieza_sprites_by_saiyagami-d6mw3kw_108
+    21300218: frieza_sprites_by_saiyagami-d6mw3kw_109
+    21300220: frieza_sprites_by_saiyagami-d6mw3kw_110
+    21300222: frieza_sprites_by_saiyagami-d6mw3kw_111
+    21300224: frieza_sprites_by_saiyagami-d6mw3kw_112
+    21300226: frieza_sprites_by_saiyagami-d6mw3kw_113
+    21300228: frieza_sprites_by_saiyagami-d6mw3kw_114
+    21300230: frieza_sprites_by_saiyagami-d6mw3kw_115
+    21300232: frieza_sprites_by_saiyagami-d6mw3kw_116
+    21300234: frieza_sprites_by_saiyagami-d6mw3kw_117
+    21300236: frieza_sprites_by_saiyagami-d6mw3kw_118
+    21300238: frieza_sprites_by_saiyagami-d6mw3kw_119
+    21300240: frieza_sprites_by_saiyagami-d6mw3kw_120
+    21300242: frieza_sprites_by_saiyagami-d6mw3kw_121
+    21300244: frieza_sprites_by_saiyagami-d6mw3kw_122
+    21300246: frieza_sprites_by_saiyagami-d6mw3kw_123
+    21300248: frieza_sprites_by_saiyagami-d6mw3kw_124
+    21300250: frieza_sprites_by_saiyagami-d6mw3kw_125
+    21300252: frieza_sprites_by_saiyagami-d6mw3kw_126
+    21300254: frieza_sprites_by_saiyagami-d6mw3kw_127
+    21300256: frieza_sprites_by_saiyagami-d6mw3kw_128
+    21300258: frieza_sprites_by_saiyagami-d6mw3kw_129
+    21300260: frieza_sprites_by_saiyagami-d6mw3kw_130
+    21300262: frieza_sprites_by_saiyagami-d6mw3kw_131
+    21300264: frieza_sprites_by_saiyagami-d6mw3kw_132
+    21300266: frieza_sprites_by_saiyagami-d6mw3kw_133
+    21300268: frieza_sprites_by_saiyagami-d6mw3kw_134
+    21300270: frieza_sprites_by_saiyagami-d6mw3kw_135
+    21300272: frieza_sprites_by_saiyagami-d6mw3kw_136
+    21300274: frieza_sprites_by_saiyagami-d6mw3kw_137
+    21300276: frieza_sprites_by_saiyagami-d6mw3kw_138
+    21300278: frieza_sprites_by_saiyagami-d6mw3kw_139
+    21300280: frieza_sprites_by_saiyagami-d6mw3kw_140
+    21300282: frieza_sprites_by_saiyagami-d6mw3kw_141
+    21300284: frieza_sprites_by_saiyagami-d6mw3kw_142
+    21300286: frieza_sprites_by_saiyagami-d6mw3kw_143
+    21300288: frieza_sprites_by_saiyagami-d6mw3kw_144
+    21300290: frieza_sprites_by_saiyagami-d6mw3kw_145
+    21300292: frieza_sprites_by_saiyagami-d6mw3kw_146
+    21300294: frieza_sprites_by_saiyagami-d6mw3kw_147
+    21300296: frieza_sprites_by_saiyagami-d6mw3kw_148
+    21300298: frieza_sprites_by_saiyagami-d6mw3kw_149
+    21300300: frieza_sprites_by_saiyagami-d6mw3kw_150
+    21300302: frieza_sprites_by_saiyagami-d6mw3kw_151
+    21300304: frieza_sprites_by_saiyagami-d6mw3kw_152
+    21300306: frieza_sprites_by_saiyagami-d6mw3kw_153
+    21300308: frieza_sprites_by_saiyagami-d6mw3kw_154
+    21300310: frieza_sprites_by_saiyagami-d6mw3kw_155
+    21300312: frieza_sprites_by_saiyagami-d6mw3kw_156
+    21300314: frieza_sprites_by_saiyagami-d6mw3kw_157
+    21300316: frieza_sprites_by_saiyagami-d6mw3kw_158
+    21300318: frieza_sprites_by_saiyagami-d6mw3kw_159
+    21300320: frieza_sprites_by_saiyagami-d6mw3kw_160
+    21300322: frieza_sprites_by_saiyagami-d6mw3kw_161
+    21300324: frieza_sprites_by_saiyagami-d6mw3kw_162
+    21300326: frieza_sprites_by_saiyagami-d6mw3kw_163
+    21300328: frieza_sprites_by_saiyagami-d6mw3kw_164
+    21300330: frieza_sprites_by_saiyagami-d6mw3kw_165
+    21300332: frieza_sprites_by_saiyagami-d6mw3kw_166
+    21300334: frieza_sprites_by_saiyagami-d6mw3kw_167
+    21300336: frieza_sprites_by_saiyagami-d6mw3kw_168
+    21300338: frieza_sprites_by_saiyagami-d6mw3kw_169
+    21300340: frieza_sprites_by_saiyagami-d6mw3kw_170
+    21300342: frieza_sprites_by_saiyagami-d6mw3kw_171
+    21300344: frieza_sprites_by_saiyagami-d6mw3kw_172
+    21300346: frieza_sprites_by_saiyagami-d6mw3kw_173
+    21300348: frieza_sprites_by_saiyagami-d6mw3kw_174
+    21300350: frieza_sprites_by_saiyagami-d6mw3kw_175
+    21300352: frieza_sprites_by_saiyagami-d6mw3kw_176
+    21300354: frieza_sprites_by_saiyagami-d6mw3kw_177
+    21300356: frieza_sprites_by_saiyagami-d6mw3kw_178
+    21300358: frieza_sprites_by_saiyagami-d6mw3kw_179
+    21300360: frieza_sprites_by_saiyagami-d6mw3kw_180
+    21300362: frieza_sprites_by_saiyagami-d6mw3kw_181
+    21300364: frieza_sprites_by_saiyagami-d6mw3kw_182
+    21300366: frieza_sprites_by_saiyagami-d6mw3kw_183
+    21300368: frieza_sprites_by_saiyagami-d6mw3kw_184
+    21300370: frieza_sprites_by_saiyagami-d6mw3kw_185
+    21300372: frieza_sprites_by_saiyagami-d6mw3kw_186
+    21300374: frieza_sprites_by_saiyagami-d6mw3kw_187
+    21300376: frieza_sprites_by_saiyagami-d6mw3kw_188
+    21300378: frieza_sprites_by_saiyagami-d6mw3kw_189
+    21300380: frieza_sprites_by_saiyagami-d6mw3kw_190
+    21300382: frieza_sprites_by_saiyagami-d6mw3kw_191
+    21300384: frieza_sprites_by_saiyagami-d6mw3kw_192
+    21300386: frieza_sprites_by_saiyagami-d6mw3kw_193
+    21300388: frieza_sprites_by_saiyagami-d6mw3kw_194
+    21300390: frieza_sprites_by_saiyagami-d6mw3kw_195
+    21300392: frieza_sprites_by_saiyagami-d6mw3kw_196
+    21300394: frieza_sprites_by_saiyagami-d6mw3kw_197
+    21300396: frieza_sprites_by_saiyagami-d6mw3kw_198
+    21300398: frieza_sprites_by_saiyagami-d6mw3kw_199
+    21300400: frieza_sprites_by_saiyagami-d6mw3kw_200
+    21300402: frieza_sprites_by_saiyagami-d6mw3kw_201
+    21300404: frieza_sprites_by_saiyagami-d6mw3kw_202
+    21300406: frieza_sprites_by_saiyagami-d6mw3kw_203
+    21300408: frieza_sprites_by_saiyagami-d6mw3kw_204
+    21300410: frieza_sprites_by_saiyagami-d6mw3kw_205
+    21300412: frieza_sprites_by_saiyagami-d6mw3kw_206
+    21300414: frieza_sprites_by_saiyagami-d6mw3kw_207
+    21300416: frieza_sprites_by_saiyagami-d6mw3kw_208
+    21300418: frieza_sprites_by_saiyagami-d6mw3kw_209
+    21300420: frieza_sprites_by_saiyagami-d6mw3kw_210
+    21300422: frieza_sprites_by_saiyagami-d6mw3kw_211
+    21300424: frieza_sprites_by_saiyagami-d6mw3kw_212
+    21300426: frieza_sprites_by_saiyagami-d6mw3kw_213
+    21300428: frieza_sprites_by_saiyagami-d6mw3kw_214
+    21300430: frieza_sprites_by_saiyagami-d6mw3kw_215
+    21300432: frieza_sprites_by_saiyagami-d6mw3kw_216
+    21300434: frieza_sprites_by_saiyagami-d6mw3kw_217
+    21300436: frieza_sprites_by_saiyagami-d6mw3kw_218
+    21300438: frieza_sprites_by_saiyagami-d6mw3kw_219
+    21300440: frieza_sprites_by_saiyagami-d6mw3kw_220
+    21300442: frieza_sprites_by_saiyagami-d6mw3kw_221
+    21300444: frieza_sprites_by_saiyagami-d6mw3kw_222
+    21300446: frieza_sprites_by_saiyagami-d6mw3kw_223
+    21300448: frieza_sprites_by_saiyagami-d6mw3kw_224
+    21300450: frieza_sprites_by_saiyagami-d6mw3kw_225
+    21300452: frieza_sprites_by_saiyagami-d6mw3kw_226
+    21300454: frieza_sprites_by_saiyagami-d6mw3kw_227
+    21300456: frieza_sprites_by_saiyagami-d6mw3kw_228
+    21300458: frieza_sprites_by_saiyagami-d6mw3kw_229
+    21300460: frieza_sprites_by_saiyagami-d6mw3kw_230
+    21300462: frieza_sprites_by_saiyagami-d6mw3kw_231
+    21300464: frieza_sprites_by_saiyagami-d6mw3kw_232
+    21300466: frieza_sprites_by_saiyagami-d6mw3kw_233
+    21300468: frieza_sprites_by_saiyagami-d6mw3kw_234
+    21300470: frieza_sprites_by_saiyagami-d6mw3kw_235
+    21300472: frieza_sprites_by_saiyagami-d6mw3kw_236
+    21300474: frieza_sprites_by_saiyagami-d6mw3kw_237
+    21300476: frieza_sprites_by_saiyagami-d6mw3kw_238
+    21300478: frieza_sprites_by_saiyagami-d6mw3kw_239
+    21300480: frieza_sprites_by_saiyagami-d6mw3kw_240
+    21300482: frieza_sprites_by_saiyagami-d6mw3kw_241
+    21300484: frieza_sprites_by_saiyagami-d6mw3kw_242
+    21300486: frieza_sprites_by_saiyagami-d6mw3kw_243
+    21300488: frieza_sprites_by_saiyagami-d6mw3kw_244
+    21300490: frieza_sprites_by_saiyagami-d6mw3kw_245
+    21300492: frieza_sprites_by_saiyagami-d6mw3kw_246
+    21300494: frieza_sprites_by_saiyagami-d6mw3kw_247
+    21300496: frieza_sprites_by_saiyagami-d6mw3kw_248
+    21300498: frieza_sprites_by_saiyagami-d6mw3kw_249
+    21300500: frieza_sprites_by_saiyagami-d6mw3kw_250
+    21300502: frieza_sprites_by_saiyagami-d6mw3kw_251
+    21300504: frieza_sprites_by_saiyagami-d6mw3kw_252
+    21300506: frieza_sprites_by_saiyagami-d6mw3kw_253
+    21300508: frieza_sprites_by_saiyagami-d6mw3kw_254
+    21300510: frieza_sprites_by_saiyagami-d6mw3kw_255
+    21300512: frieza_sprites_by_saiyagami-d6mw3kw_256
+    21300514: frieza_sprites_by_saiyagami-d6mw3kw_257
+    21300516: frieza_sprites_by_saiyagami-d6mw3kw_258
+    21300518: frieza_sprites_by_saiyagami-d6mw3kw_259
+    21300520: frieza_sprites_by_saiyagami-d6mw3kw_260
+    21300522: frieza_sprites_by_saiyagami-d6mw3kw_261
+    21300524: frieza_sprites_by_saiyagami-d6mw3kw_262
+    21300526: frieza_sprites_by_saiyagami-d6mw3kw_263
+    21300528: frieza_sprites_by_saiyagami-d6mw3kw_264
+    21300530: frieza_sprites_by_saiyagami-d6mw3kw_265
+    21300532: frieza_sprites_by_saiyagami-d6mw3kw_266
+    21300534: frieza_sprites_by_saiyagami-d6mw3kw_267
+    21300536: frieza_sprites_by_saiyagami-d6mw3kw_268
+    21300538: frieza_sprites_by_saiyagami-d6mw3kw_269
+    21300540: frieza_sprites_by_saiyagami-d6mw3kw_270
+    21300542: frieza_sprites_by_saiyagami-d6mw3kw_271
+    21300544: frieza_sprites_by_saiyagami-d6mw3kw_272
+    21300546: frieza_sprites_by_saiyagami-d6mw3kw_273
+    21300548: frieza_sprites_by_saiyagami-d6mw3kw_274
+    21300550: frieza_sprites_by_saiyagami-d6mw3kw_275
+    21300552: frieza_sprites_by_saiyagami-d6mw3kw_276
+    21300554: frieza_sprites_by_saiyagami-d6mw3kw_277
+    21300556: frieza_sprites_by_saiyagami-d6mw3kw_278
+    21300558: frieza_sprites_by_saiyagami-d6mw3kw_279
+    21300560: frieza_sprites_by_saiyagami-d6mw3kw_280
+    21300562: frieza_sprites_by_saiyagami-d6mw3kw_281
+    21300564: frieza_sprites_by_saiyagami-d6mw3kw_282
+    21300566: frieza_sprites_by_saiyagami-d6mw3kw_283
+    21300568: frieza_sprites_by_saiyagami-d6mw3kw_284
+    21300570: frieza_sprites_by_saiyagami-d6mw3kw_285
+    21300572: frieza_sprites_by_saiyagami-d6mw3kw_286
+    21300574: frieza_sprites_by_saiyagami-d6mw3kw_287
+    21300576: frieza_sprites_by_saiyagami-d6mw3kw_288
+    21300578: frieza_sprites_by_saiyagami-d6mw3kw_289
+    21300580: frieza_sprites_by_saiyagami-d6mw3kw_290
+    21300582: frieza_sprites_by_saiyagami-d6mw3kw_291
+    21300584: frieza_sprites_by_saiyagami-d6mw3kw_292
+    21300586: frieza_sprites_by_saiyagami-d6mw3kw_293
+    21300588: frieza_sprites_by_saiyagami-d6mw3kw_294
+    21300590: frieza_sprites_by_saiyagami-d6mw3kw_295
+    21300592: frieza_sprites_by_saiyagami-d6mw3kw_296
+    21300594: frieza_sprites_by_saiyagami-d6mw3kw_297
+    21300596: frieza_sprites_by_saiyagami-d6mw3kw_298
+    21300598: frieza_sprites_by_saiyagami-d6mw3kw_299
+    21300600: frieza_sprites_by_saiyagami-d6mw3kw_300
+    21300602: frieza_sprites_by_saiyagami-d6mw3kw_301
+    21300604: frieza_sprites_by_saiyagami-d6mw3kw_302
+    21300606: frieza_sprites_by_saiyagami-d6mw3kw_303
+    21300608: frieza_sprites_by_saiyagami-d6mw3kw_304
+    21300610: frieza_sprites_by_saiyagami-d6mw3kw_305
+    21300612: frieza_sprites_by_saiyagami-d6mw3kw_306
+    21300614: frieza_sprites_by_saiyagami-d6mw3kw_307
+    21300616: frieza_sprites_by_saiyagami-d6mw3kw_308
+    21300618: frieza_sprites_by_saiyagami-d6mw3kw_309
+    21300620: frieza_sprites_by_saiyagami-d6mw3kw_310
+    21300622: frieza_sprites_by_saiyagami-d6mw3kw_311
+    21300624: frieza_sprites_by_saiyagami-d6mw3kw_312
+    21300626: frieza_sprites_by_saiyagami-d6mw3kw_313
+    21300628: frieza_sprites_by_saiyagami-d6mw3kw_314
+    21300630: frieza_sprites_by_saiyagami-d6mw3kw_315
+    21300632: frieza_sprites_by_saiyagami-d6mw3kw_316
+    21300634: frieza_sprites_by_saiyagami-d6mw3kw_317
+    21300636: frieza_sprites_by_saiyagami-d6mw3kw_318
+    21300638: frieza_sprites_by_saiyagami-d6mw3kw_319
+    21300640: frieza_sprites_by_saiyagami-d6mw3kw_320
+    21300642: frieza_sprites_by_saiyagami-d6mw3kw_321
+    21300644: frieza_sprites_by_saiyagami-d6mw3kw_322
+    21300646: frieza_sprites_by_saiyagami-d6mw3kw_323
+    21300648: frieza_sprites_by_saiyagami-d6mw3kw_324
+    21300650: frieza_sprites_by_saiyagami-d6mw3kw_325
+    21300652: frieza_sprites_by_saiyagami-d6mw3kw_326
+    21300654: frieza_sprites_by_saiyagami-d6mw3kw_327
+    21300656: frieza_sprites_by_saiyagami-d6mw3kw_328
+    21300658: frieza_sprites_by_saiyagami-d6mw3kw_329
+    21300660: frieza_sprites_by_saiyagami-d6mw3kw_330
+    21300662: frieza_sprites_by_saiyagami-d6mw3kw_331
+    21300664: frieza_sprites_by_saiyagami-d6mw3kw_332
+    21300666: frieza_sprites_by_saiyagami-d6mw3kw_333
+    21300668: frieza_sprites_by_saiyagami-d6mw3kw_334
+    21300670: frieza_sprites_by_saiyagami-d6mw3kw_335
+    21300672: frieza_sprites_by_saiyagami-d6mw3kw_336
+    21300674: frieza_sprites_by_saiyagami-d6mw3kw_337
+    21300676: frieza_sprites_by_saiyagami-d6mw3kw_338
+    21300678: frieza_sprites_by_saiyagami-d6mw3kw_339
+    21300680: frieza_sprites_by_saiyagami-d6mw3kw_340
+    21300682: frieza_sprites_by_saiyagami-d6mw3kw_341
+    21300684: frieza_sprites_by_saiyagami-d6mw3kw_342
+    21300686: frieza_sprites_by_saiyagami-d6mw3kw_343
+    21300688: frieza_sprites_by_saiyagami-d6mw3kw_344
+    21300690: frieza_sprites_by_saiyagami-d6mw3kw_345
+    21300692: frieza_sprites_by_saiyagami-d6mw3kw_346
+    21300694: frieza_sprites_by_saiyagami-d6mw3kw_347
+    21300696: frieza_sprites_by_saiyagami-d6mw3kw_348
+    21300698: frieza_sprites_by_saiyagami-d6mw3kw_349
+    21300700: frieza_sprites_by_saiyagami-d6mw3kw_350
+    21300702: frieza_sprites_by_saiyagami-d6mw3kw_351
+    21300704: frieza_sprites_by_saiyagami-d6mw3kw_352
+    21300706: frieza_sprites_by_saiyagami-d6mw3kw_353
+    21300708: frieza_sprites_by_saiyagami-d6mw3kw_354
+    21300710: frieza_sprites_by_saiyagami-d6mw3kw_355
+    21300712: frieza_sprites_by_saiyagami-d6mw3kw_356
+    21300714: frieza_sprites_by_saiyagami-d6mw3kw_357
+    21300716: frieza_sprites_by_saiyagami-d6mw3kw_358
+    21300718: frieza_sprites_by_saiyagami-d6mw3kw_359
+    21300720: frieza_sprites_by_saiyagami-d6mw3kw_360
+    21300722: frieza_sprites_by_saiyagami-d6mw3kw_361
+    21300724: frieza_sprites_by_saiyagami-d6mw3kw_362
+    21300726: frieza_sprites_by_saiyagami-d6mw3kw_363
+    21300728: frieza_sprites_by_saiyagami-d6mw3kw_364
+    21300730: frieza_sprites_by_saiyagami-d6mw3kw_365
+    21300732: frieza_sprites_by_saiyagami-d6mw3kw_366
+    21300734: frieza_sprites_by_saiyagami-d6mw3kw_367
+    21300736: frieza_sprites_by_saiyagami-d6mw3kw_368
+    21300738: frieza_sprites_by_saiyagami-d6mw3kw_369
+    21300740: frieza_sprites_by_saiyagami-d6mw3kw_370
+    21300742: frieza_sprites_by_saiyagami-d6mw3kw_371
+    21300744: frieza_sprites_by_saiyagami-d6mw3kw_372
+    21300746: frieza_sprites_by_saiyagami-d6mw3kw_373
+    21300748: frieza_sprites_by_saiyagami-d6mw3kw_374
+    21300750: frieza_sprites_by_saiyagami-d6mw3kw_375
+    21300752: frieza_sprites_by_saiyagami-d6mw3kw_376
+    21300754: frieza_sprites_by_saiyagami-d6mw3kw_377
+    21300756: frieza_sprites_by_saiyagami-d6mw3kw_378
+    21300758: frieza_sprites_by_saiyagami-d6mw3kw_379
+    21300760: frieza_sprites_by_saiyagami-d6mw3kw_380
+    21300762: frieza_sprites_by_saiyagami-d6mw3kw_381
+    21300764: frieza_sprites_by_saiyagami-d6mw3kw_382
+    21300766: frieza_sprites_by_saiyagami-d6mw3kw_383
+    21300768: frieza_sprites_by_saiyagami-d6mw3kw_384
+    21300770: frieza_sprites_by_saiyagami-d6mw3kw_385
+    21300772: frieza_sprites_by_saiyagami-d6mw3kw_386
+    21300774: frieza_sprites_by_saiyagami-d6mw3kw_387
+    21300776: frieza_sprites_by_saiyagami-d6mw3kw_388
+    21300778: frieza_sprites_by_saiyagami-d6mw3kw_389
+    21300780: frieza_sprites_by_saiyagami-d6mw3kw_390
+    21300782: frieza_sprites_by_saiyagami-d6mw3kw_391
+    21300784: frieza_sprites_by_saiyagami-d6mw3kw_392
+    21300786: frieza_sprites_by_saiyagami-d6mw3kw_393
+    21300788: frieza_sprites_by_saiyagami-d6mw3kw_394
+    21300790: frieza_sprites_by_saiyagami-d6mw3kw_395
+    21300792: frieza_sprites_by_saiyagami-d6mw3kw_396
+    21300794: frieza_sprites_by_saiyagami-d6mw3kw_397
+    21300796: frieza_sprites_by_saiyagami-d6mw3kw_398
+    21300798: frieza_sprites_by_saiyagami-d6mw3kw_399
+    21300800: frieza_sprites_by_saiyagami-d6mw3kw_400
+    21300802: frieza_sprites_by_saiyagami-d6mw3kw_401
+    21300804: frieza_sprites_by_saiyagami-d6mw3kw_402
+    21300806: frieza_sprites_by_saiyagami-d6mw3kw_403
+    21300808: frieza_sprites_by_saiyagami-d6mw3kw_404
+    21300810: frieza_sprites_by_saiyagami-d6mw3kw_405
+    21300812: frieza_sprites_by_saiyagami-d6mw3kw_406
+    21300814: frieza_sprites_by_saiyagami-d6mw3kw_407
+    21300816: frieza_sprites_by_saiyagami-d6mw3kw_408
+    21300818: frieza_sprites_by_saiyagami-d6mw3kw_409
+    21300820: frieza_sprites_by_saiyagami-d6mw3kw_410
+    21300822: frieza_sprites_by_saiyagami-d6mw3kw_411
+    21300824: frieza_sprites_by_saiyagami-d6mw3kw_412
+    21300826: frieza_sprites_by_saiyagami-d6mw3kw_413
+    21300828: frieza_sprites_by_saiyagami-d6mw3kw_414
+    21300830: frieza_sprites_by_saiyagami-d6mw3kw_415
+    21300832: frieza_sprites_by_saiyagami-d6mw3kw_416
+    21300834: frieza_sprites_by_saiyagami-d6mw3kw_417
+    21300836: frieza_sprites_by_saiyagami-d6mw3kw_418
+    21300838: frieza_sprites_by_saiyagami-d6mw3kw_419
+    21300840: frieza_sprites_by_saiyagami-d6mw3kw_420
+    21300842: frieza_sprites_by_saiyagami-d6mw3kw_421
+    21300844: frieza_sprites_by_saiyagami-d6mw3kw_422
+    21300846: frieza_sprites_by_saiyagami-d6mw3kw_423
+    21300848: frieza_sprites_by_saiyagami-d6mw3kw_424
+    21300850: frieza_sprites_by_saiyagami-d6mw3kw_425
+    21300852: frieza_sprites_by_saiyagami-d6mw3kw_426
+    21300854: frieza_sprites_by_saiyagami-d6mw3kw_427
+    21300856: frieza_sprites_by_saiyagami-d6mw3kw_428
+    21300858: frieza_sprites_by_saiyagami-d6mw3kw_429
+    21300860: frieza_sprites_by_saiyagami-d6mw3kw_430
+    21300862: frieza_sprites_by_saiyagami-d6mw3kw_431
+    21300864: frieza_sprites_by_saiyagami-d6mw3kw_432
+    21300866: frieza_sprites_by_saiyagami-d6mw3kw_433
+    21300868: frieza_sprites_by_saiyagami-d6mw3kw_434
+    21300870: frieza_sprites_by_saiyagami-d6mw3kw_435
+    21300872: frieza_sprites_by_saiyagami-d6mw3kw_436
+    21300874: frieza_sprites_by_saiyagami-d6mw3kw_437
+    21300876: frieza_sprites_by_saiyagami-d6mw3kw_438
+    21300878: frieza_sprites_by_saiyagami-d6mw3kw_439
+    21300880: frieza_sprites_by_saiyagami-d6mw3kw_440
+    21300882: frieza_sprites_by_saiyagami-d6mw3kw_441
+    21300884: frieza_sprites_by_saiyagami-d6mw3kw_442
+    21300886: frieza_sprites_by_saiyagami-d6mw3kw_443
+    21300888: frieza_sprites_by_saiyagami-d6mw3kw_444
+    21300890: frieza_sprites_by_saiyagami-d6mw3kw_445
+    21300892: frieza_sprites_by_saiyagami-d6mw3kw_446
+    21300894: frieza_sprites_by_saiyagami-d6mw3kw_447
+    21300896: frieza_sprites_by_saiyagami-d6mw3kw_448
+    21300898: frieza_sprites_by_saiyagami-d6mw3kw_449
+    21300900: frieza_sprites_by_saiyagami-d6mw3kw_450
+    21300902: frieza_sprites_by_saiyagami-d6mw3kw_451
+    21300904: frieza_sprites_by_saiyagami-d6mw3kw_452
+    21300906: frieza_sprites_by_saiyagami-d6mw3kw_453
+    21300908: frieza_sprites_by_saiyagami-d6mw3kw_454
+    21300910: frieza_sprites_by_saiyagami-d6mw3kw_455
+    21300912: frieza_sprites_by_saiyagami-d6mw3kw_456
+    21300914: frieza_sprites_by_saiyagami-d6mw3kw_457
+    21300916: frieza_sprites_by_saiyagami-d6mw3kw_458
+    21300918: frieza_sprites_by_saiyagami-d6mw3kw_459
+    21300920: frieza_sprites_by_saiyagami-d6mw3kw_460
+    21300922: frieza_sprites_by_saiyagami-d6mw3kw_461
+    21300924: frieza_sprites_by_saiyagami-d6mw3kw_462
+    21300926: frieza_sprites_by_saiyagami-d6mw3kw_463
+    21300928: frieza_sprites_by_saiyagami-d6mw3kw_464
+    21300930: frieza_sprites_by_saiyagami-d6mw3kw_465
+    21300932: frieza_sprites_by_saiyagami-d6mw3kw_466
+    21300934: frieza_sprites_by_saiyagami-d6mw3kw_467
+    21300936: frieza_sprites_by_saiyagami-d6mw3kw_468
+    21300938: frieza_sprites_by_saiyagami-d6mw3kw_469
+    21300940: frieza_sprites_by_saiyagami-d6mw3kw_470
+    21300942: frieza_sprites_by_saiyagami-d6mw3kw_471
+    21300944: frieza_sprites_by_saiyagami-d6mw3kw_472
+    21300946: frieza_sprites_by_saiyagami-d6mw3kw_473
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2418
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2418
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2418
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2418
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2418
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2418
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_6
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2418
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_7
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 2418
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_8
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2418
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_9
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2418
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2376
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2382
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2376
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2382
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2376
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_15
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2382
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2376
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_17
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2382
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_18
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2329
+        width: 97
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_19
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2329
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_20
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2329
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2329
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_22
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2329
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2329
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_24
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2329
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2282
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_26
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2282
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_27
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2282
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_28
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2282
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2282
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_30
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2282
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_31
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2282
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_32
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2294
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_33
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 2282
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_34
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2282
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_35
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2282
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_36
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2225
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_37
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2267
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_38
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 2265
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_39
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 2267
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2225
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_41
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2225
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_42
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2225
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_43
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2226
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_44
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_45
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2226
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_46
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2226
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_47
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 2226
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_48
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2174
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2178
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_50
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2196
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_51
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2196
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_52
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2178
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2197
+        width: 73
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_54
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2178
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_55
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2198
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_56
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2131
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_57
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2149
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_58
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2149
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_59
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2131
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_60
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2131
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2131
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_62
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2131
+        width: 70
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_63
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 2131
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_64
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2131
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_65
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 2131
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_66
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 2131
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_67
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2094
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_68
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2094
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_69
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2094
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_70
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2094
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_71
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2094
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_72
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2094
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_73
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2094
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_74
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2094
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_75
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2039
+        width: 97
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_76
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 2039
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_77
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2039
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_78
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2039
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_79
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2077
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_80
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2039
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_81
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2039
+        width: 81
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_82
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1987
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_83
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1987
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_84
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1987
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_85
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1987
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_86
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1987
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_87
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1987
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_88
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1987
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_89
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2000
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_90
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1987
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_91
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1987
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_92
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1987
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_93
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1934
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_94
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1977
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_95
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1977
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_96
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1934
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_97
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1934
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_98
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1935
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_99
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1935
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_100
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1935
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_101
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1935
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_102
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1879
+        width: 100
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_103
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1882
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_104
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1901
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_105
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1901
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_106
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1882
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_107
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1902
+        width: 73
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_108
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1882
+        width: 72
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_109
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1903
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_110
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1831
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_111
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1850
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_112
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1850
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_113
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1831
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_114
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1831
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_115
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1831
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_116
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1831
+        width: 70
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_117
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1831
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_118
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1831
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_119
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1831
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_120
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1831
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_121
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1806
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_122
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1806
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_123
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1806
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_124
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1806
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_125
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1806
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_126
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1806
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_127
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1806
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_128
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1806
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_129
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1806
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_130
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1806
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_131
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1806
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_132
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1735
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_133
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1735
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_134
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1735
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_135
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1735
+        width: 90
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_136
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1735
+        width: 97
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_137
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1735
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_138
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1735
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_139
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1683
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_140
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1683
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_141
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1683
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_142
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1683
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_143
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1683
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_144
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1683
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_145
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1683
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_146
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1696
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_147
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1683
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_148
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1683
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_149
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1683
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_150
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1630
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_151
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1630
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_152
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1630
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_153
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1631
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_154
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1631
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_155
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1631
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_156
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1631
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_157
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1673
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_158
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1631
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_159
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1575
+        width: 97
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_160
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1578
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_161
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1597
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_162
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1597
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_163
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1578
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_164
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1598
+        width: 73
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_165
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1578
+        width: 74
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_166
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1599
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_167
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1527
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_168
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1546
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_169
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1546
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_170
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1527
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_171
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1527
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_172
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1527
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_173
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1527
+        width: 70
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_174
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1527
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_175
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1521
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_176
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1526
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_177
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1521
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_178
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1478
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_179
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1500
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_180
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1477
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_181
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1498
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_182
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1476
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_183
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1475
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_184
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1476
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_185
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1475
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_186
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1441
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_187
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1441
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_188
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1441
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_189
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1441
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_190
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1441
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_191
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1441
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_192
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1441
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_193
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1441
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_194
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1441
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_195
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1441
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_196
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1441
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_197
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1380
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_198
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1380
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_199
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1380
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_200
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1380
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_201
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1380
+        width: 97
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_202
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1380
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_203
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1380
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_204
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1333
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_205
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1333
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_206
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1333
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_207
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1333
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_208
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1333
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_209
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1333
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_210
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1333
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_211
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1345
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_212
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1333
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_213
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1333
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_214
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1333
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_215
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1318
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_216
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1316
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_217
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1318
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_218
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1314
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_219
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1276
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_220
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1276
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_221
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1276
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_222
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1276
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_223
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1277
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_224
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1277
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_225
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1277
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_226
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1277
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_227
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1277
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_228
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1277
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_229
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1225
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_230
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1229
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_231
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1247
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_232
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1247
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_233
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1229
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_234
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1248
+        width: 73
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_235
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1229
+        width: 70
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_236
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1249
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_237
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1182
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_238
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1182
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_239
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1182
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_240
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1182
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_241
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1182
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_242
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1182
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_243
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1215
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_244
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1216
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_245
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1182
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_246
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1182
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_247
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1182
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_248
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1200
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_249
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1200
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_250
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1182
+        width: 70
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_251
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1129
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_252
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1129
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_253
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1129
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_254
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1129
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_255
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1129
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_256
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1129
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_257
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1129
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_258
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1129
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_259
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1129
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_260
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1129
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_261
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1129
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_262
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1129
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_263
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1129
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_264
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1074
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_265
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1070
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_266
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1070
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_267
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1071
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_268
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1070
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_269
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1073
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_270
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1075
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_271
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1075
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_272
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1074
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_273
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1029
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_274
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1029
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_275
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1029
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_276
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1028
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_277
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1028
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_278
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1027
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_279
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1026
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_280
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1045
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_281
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1038
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_282
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1026
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_283
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1026
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_284
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1032
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_285
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 982
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_286
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 982
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_287
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 982
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_288
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 982
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_289
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 983
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_290
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1018
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_291
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1016
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_292
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1015
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_293
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 982
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_294
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 982
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_295
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1011
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_296
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 970
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_297
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 938
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_298
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 974
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_299
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 983
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_300
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 964
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_301
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 966
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_302
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 935
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_303
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 945
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_304
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 945
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_305
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 957
+        width: 73
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_306
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 930
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_307
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 928
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_308
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 889
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_309
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 897
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_310
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 897
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_311
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 890
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_312
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 892
+        width: 99
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_313
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 914
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_314
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 915
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_315
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 844
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_316
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 867
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_317
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 866
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_318
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 867
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_319
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 825
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_320
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 778
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_321
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 826
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_322
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 806
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_323
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 734
+        width: 23
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_324
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 795
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_325
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 796
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_326
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 797
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_327
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 802
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_328
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 728
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_329
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 737
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_330
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 737
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_331
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 729
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_332
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 658
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_333
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 661
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_334
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 661
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_335
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 661
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_336
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 661
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_337
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 651
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_338
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 649
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_339
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 700
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_340
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 638
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_341
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 639
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_342
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 632
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_343
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 640
+        width: 73
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_344
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 601
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_345
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 603
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_346
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 605
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_347
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 597
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_348
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 599
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_349
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 628
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_350
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 597
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_351
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 596
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_352
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 597
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_353
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 597
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_354
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 597
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_355
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 562
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_356
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 562
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_357
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 562
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_358
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 562
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_359
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 562
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_360
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 562
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_361
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 562
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_362
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 562
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_363
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 562
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_364
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 562
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_365
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 500
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_366
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 500
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_367
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 500
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_368
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 500
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_369
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 500
+        width: 97
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_370
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 500
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_371
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 500
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_372
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 453
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_373
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 453
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_374
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 453
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_375
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 453
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_376
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 453
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_377
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 453
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_378
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 453
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_379
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 465
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_380
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 453
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_381
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 453
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_382
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 453
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_383
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 438
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_384
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 436
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_385
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 438
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_386
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 434
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_387
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 396
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_388
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 396
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_389
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 396
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_390
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 396
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_391
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 397
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_392
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 397
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_393
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 397
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_394
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 397
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_395
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 397
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_396
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 397
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_397
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 345
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_398
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 349
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_399
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 367
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_400
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 367
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_401
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 349
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_402
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 368
+        width: 73
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_403
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 349
+        width: 70
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_404
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 369
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_405
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 302
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_406
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 320
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_407
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 320
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_408
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 302
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_409
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 302
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_410
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 302
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_411
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 302
+        width: 70
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_412
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 302
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_413
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 302
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_414
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 302
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_415
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 302
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_416
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 302
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_417
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 335
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_418
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 277
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_419
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 277
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_420
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 277
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_421
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 277
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_422
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 277
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_423
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 277
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_424
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 277
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_425
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 277
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_426
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 213
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_427
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 213
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_428
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 213
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_429
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 213
+        width: 86
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_430
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 161
+        width: 59
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_431
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 213
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_432
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 213
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_433
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 213
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_434
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 205
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_435
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 161
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_436
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 161
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_437
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 161
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_438
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 161
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_439
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 161
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_440
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 161
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_441
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 174
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_442
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 161
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_443
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 161
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_444
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 161
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_445
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 157
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_446
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 108
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_447
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 108
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_448
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 108
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_449
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 109
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_450
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 109
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_451
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 109
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_452
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 109
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_453
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 151
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_454
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 109
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_455
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 109
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_456
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 56
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_457
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 75
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_458
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 75
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_459
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 56
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_460
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 76
+        width: 73
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_461
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 56
+        width: 72
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_462
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 77
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_463
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_464
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 24
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_465
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 24
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_466
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 5
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_467
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 5
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_468
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 5
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_469
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 5
+        width: 70
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_470
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 5
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_471
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 5
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_472
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 5
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frieza_sprites_by_saiyagami-d6mw3kw_473
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 5
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
